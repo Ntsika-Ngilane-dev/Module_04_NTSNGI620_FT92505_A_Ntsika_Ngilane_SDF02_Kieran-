@@ -8,6 +8,7 @@ This is a fun and professional HTML/CSS portfolio project themed around CodeSpac
 ## 📄 File Overview
 
 **`index.html`** — The main HTML file that includes all the sections of the portfolio.
+
 **`images folder`** — This where all the images for the project are.
 ---
 
